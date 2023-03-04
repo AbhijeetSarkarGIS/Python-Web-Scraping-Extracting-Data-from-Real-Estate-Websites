@@ -2,6 +2,9 @@
 
 Python, Web Scraping, Real Estate, Websites, Data Extraction, BeautifulSoup, Scrapy, Property Details, Prices, Location Data.
 
+![Alt Text](web.webp)
+
+
 Python is a powerful programming language that has become increasingly popular in recent years. One of the many use cases for Python is web scraping, which involves extracting data from websites. In this article, we will discuss the basics of web scraping using Python and some of the libraries that make it easy.
 
 Before we dive in, it's important to note that web scraping can be a gray area, legally speaking. While there are many legitimate use cases for web scraping, some websites prohibit scraping in their terms of service. Additionally, some websites may have measures in place to prevent scraping. As a responsible developer, it's important to ensure that you have permission to scrape a website and that you're not causing any harm.
